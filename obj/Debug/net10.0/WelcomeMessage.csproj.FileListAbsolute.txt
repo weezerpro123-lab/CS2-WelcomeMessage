@@ -1,0 +1,12 @@
+C:\CS2Plugins\WelcomeMessage\obj\Debug\net10.0\WelcomeMessage.csproj.AssemblyReference.cache
+C:\CS2Plugins\WelcomeMessage\obj\Debug\net10.0\WelcomeMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS2Plugins\WelcomeMessage\obj\Debug\net10.0\WelcomeMessage.AssemblyInfoInputs.cache
+C:\CS2Plugins\WelcomeMessage\obj\Debug\net10.0\WelcomeMessage.AssemblyInfo.cs
+C:\CS2Plugins\WelcomeMessage\obj\Debug\net10.0\WelcomeMessage.csproj.CoreCompileInputs.cache
+C:\CS2Plugins\WelcomeMessage\bin\Debug\net10.0\WelcomeMessage.deps.json
+C:\CS2Plugins\WelcomeMessage\bin\Debug\net10.0\WelcomeMessage.dll
+C:\CS2Plugins\WelcomeMessage\bin\Debug\net10.0\WelcomeMessage.pdb
+C:\CS2Plugins\WelcomeMessage\obj\Debug\net10.0\WelcomeMessage.dll
+C:\CS2Plugins\WelcomeMessage\obj\Debug\net10.0\refint\WelcomeMessage.dll
+C:\CS2Plugins\WelcomeMessage\obj\Debug\net10.0\WelcomeMessage.pdb
+C:\CS2Plugins\WelcomeMessage\obj\Debug\net10.0\ref\WelcomeMessage.dll
