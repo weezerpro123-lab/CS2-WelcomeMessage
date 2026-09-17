@@ -1,5 +1,6 @@
 using CounterStrikeSharp.API;
 using CounterStrikeSharp.API.Core;
+using CounterStrikeSharp.API.Modules.Admin;
 using CounterStrikeSharp.API.Modules.Events;
 using CounterStrikeSharp.API.Modules.Utils;
 
@@ -27,6 +28,10 @@ public class WelcomeMessage : BasePlugin
         var player = @event.Userid;
 
         if (player == null || !player.IsValid)
+            return HookResult.Continue;
+
+        // Don't announce admins joining the server.
+        if (AdminManager.GetPlayerAdminData(player) != null)
             return HookResult.Continue;
 
         // Send the welcome message to every player currently in the server.
